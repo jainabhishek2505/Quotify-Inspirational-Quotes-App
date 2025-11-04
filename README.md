@@ -1,42 +1,51 @@
-#🌟 Quotify — Inspirational Quotes App
 
-"Sometimes the right quote can change your whole day."
+# 🌟 Quotify — Inspirational Quotes App
 
-##📱 About
+> *"Sometimes the right quote can change your whole day."*
 
-Quotify is a simple Android app built with Kotlin that displays inspirational quotes with author names.
-You can easily browse through quotes and share your favorite ones with friends.
+---
 
-⚙️ Features
+## 📱 About
 
-🧠 Motivational quotes with authors
+**Quotify** is a simple Android app built with **Kotlin** that displays inspirational quotes along with their authors.
+You can easily browse through quotes using the navigation buttons and share your favorite ones with friends on any platform.
 
-⏭️ Next & Previous navigation
+---
 
-📤 Share quotes via any app
+## ⚙️ Features
 
-🎨 Clean UI using Material Design
+* 🧠 Motivational quotes with authors
+* ⏭️ Next & Previous navigation
+* 📤 Share quotes via any app
+* 🎨 Clean and modern UI using Material Design
 
-🧩 Tech Stack
+---
 
-Language: Kotlin
+## 🧩 Tech Stack
 
-UI: XML + ViewBinding
+* **Language:** Kotlin
+* **UI:** XML + ViewBinding
+* **Architecture:** Simple MVVM-ready structure
 
-Architecture: Simple MVVM-ready structure
+---
 
-🚀 Run the App
+## 🚀 Run the App
 
-Clone the repo
+1. **Clone the repository:**
 
-git clone: https://github.com/jainabhishek2505/QuotesApplication.git
+   ```bash
+   git clone: https://github.com/jainabhishek2505/QuotesApplication.git
+   ```
+2. **Open the project** in Android Studio.
+3. **Run** on an emulator or a physical device.
 
+---
 
-Open in Android Studio
+## 👨‍💻 Author
 
-Run on device/emulator
-
-👨‍💻 Author
-
-Abhishek Jain
+**Abhishek Jain**
 💬 Android Developer | Kotlin | Java
+
+---
+
+Would you like me to add **badges (Kotlin, Android Studio, License)** and a **preview image section** at the top to make it look more professional on GitHub?
