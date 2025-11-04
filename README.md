@@ -1,8 +1,8 @@
-🌟 Quotify — Inspirational Quotes App
+#🌟 Quotify — Inspirational Quotes App
 
 "Sometimes the right quote can change your whole day."
 
-📱 About
+##📱 About
 
 Quotify is a simple Android app built with Kotlin that displays inspirational quotes with author names.
 You can easily browse through quotes and share your favorite ones with friends.
